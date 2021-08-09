@@ -19,7 +19,7 @@ The NYSDOT is the transportation entity of New York whose main objective is to i
 
 **Questions for Analysis** 
 - Is there a relationship between motor collisions and borough? 
-- What are the highest contributing factors to motor collisions? 
+- What can be done to reduce motor collisions in the future? 
 
 **Key Stakeholders** \
 Key stakeholders in this analysis would include the *New York State Department of Transportation (NYSDOT)* and the *New York Police Department(NYPD)*. 👥
