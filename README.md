@@ -60,7 +60,7 @@ This query generated the following results:
 
 These results are shown visually with the following data visualization using Tableau.
 
-![Borough Frequency Chart](borough_frequency (2).png) 
+![Borough Frequency Chart](borough_frequency.png) 
  
 As you can see above, the frequency chart above produces a table where each borough is ranked by the frequency of motor collisions present. As abundantly clear, the vast majority of motor collisions are not reported to a borough; this is shown by the frequencies found in the null category. 
 
