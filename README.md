@@ -1,12 +1,10 @@
 # Motor-Collisions-in-NYC
 Case Study 1: Exploring the correlation between motor collisions and weather in NYC
 
----
-title: "NYC Motor Collisions" 
-output: html_document
-author: China Gaines
-date: 08-04-2021
----
+<p align="center">
+  <img src="nyc.jpg" alt="banner image"/>
+  <p align="center">Photo credit to <a href="https://www.pexels.com/photo/city-street-photo-378570/">Nout Gons</a></p>
+</p>
 
 ## Introduction 🚗
 The NYSDOT is the transportation entity of New York whose main objective is to improve transportation and traffic in the state of New York. With New York City being the most populous city in the state, there is increased interest in improving traffic and preventing motor collisions in its area.  This case study, titled 'Motor Collisions in NYC' explores the connection between Motor Collisions and boroughs of New York City. 
